@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+  font-family: "Open Sans", sans-serif;
+}
+
+.button2 {
+  position: relative;
+  display: inline-block;
+  padding: 30px 61px;
+  border-radius: 4px;
+  color: #fff;
+  margin: 25px;
+  font-family: "Roboto", sans-serif;
+  border: 2px solid #d2bdff;
+  cursor: pointer;
+}
+
+P {
+  color: #fff;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
